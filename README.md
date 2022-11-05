@@ -1,1 +1,1 @@
-# tempalete
+Coba Halaman template dan agar di upload codeigniter
